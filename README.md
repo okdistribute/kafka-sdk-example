@@ -20,7 +20,7 @@ You need to set the following environment variables:
 * `TOKEN`: The Ditto Playground Token is similar to an API key. It is found in the section titled "Authentication Mode & Webhook Settings", with the heading "Playground Mode Details"
 * `CLIENT_ID`: The Kafka client id, could be anything (e.g., `"my-app"`)
 
-![assets/portal-playground.png](portal-playground)
+![assets/portal-playground.png](assets/portal-playground.png)
 
 ### Usage
 
